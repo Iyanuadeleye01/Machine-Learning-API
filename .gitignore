@@ -5,3 +5,4 @@ venv/share/jupyter/nbextensions/jupyterlab-plotly/index.js
 venv/share/jupyter/nbextensions/jupyterlab-plotly/index.js.LICENSE.txt
 venv/share/man/man1/ipython.1
 venv/share/man/man1/ttx.1
+/venv
