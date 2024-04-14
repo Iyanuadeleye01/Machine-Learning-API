@@ -1,2 +1,8 @@
 /_pycache_
 /venv
+/README.md
+/Paitients_Files_Train.csv
+/Paitients_Files_Test.csv
+/main.ipynb
+/LICENSE
+/.gitignore
